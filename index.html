@@ -303,8 +303,8 @@
 	  </style>
 	</head>
   <body onload="init()">
-      <audio autoplay="true" src="videoplayback.mp3">
-	 
+	<audio class="audio"  autoplay loop>
+		<source src="musik.mp3" type="audio/mpeg"/>
 	</audio>
     <div id="bg">
       <div id="particles-js"></div>
@@ -370,8 +370,9 @@
      
        
         <div class="container">
-  
+			
           <div class="text-container">
+		
             <h1 id="greeting"></h1>
             <h4 id="quotes"></h4>
             <em id="quotes-author" class="text-muted"></em>
