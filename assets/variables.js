@@ -8,14 +8,11 @@ const variables = {
   },
   quotes: [
 
-    {quote: "Iraa kalo adhin buat salah kasi tau ya", author: "Adhin" },
-    {quote: "Kenapa iraa cakep banget sih", author: "Adhin" },
-    {quote: "ga sabar ketemu iraa", author: "Adhin" },
-    {quote: "Iraa lucuu", author: "Adhin" },
-    {quote: "Mandi bareng yuk. Mandirikan rumah tangga *malu sambil salto", author: "Adhin" },
+    {quote: "For you, and for me <3", author: "Adhin" },
+    
 
   ],
-  nicknames: ["Iraa","Ir","Safira","ra"],
+  nicknames: ["Bee"],
   generated: ["{greetings}, {nicknames}!"],
 };
 
