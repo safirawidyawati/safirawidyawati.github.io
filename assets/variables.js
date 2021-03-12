@@ -8,7 +8,7 @@ const variables = {
   },
   quotes: [
 
-    {quote: "For you,and for me <3", author: "Adhin" },
+    {quote: "For you,and for me", author: "Adhin" },
     
 
   ],
