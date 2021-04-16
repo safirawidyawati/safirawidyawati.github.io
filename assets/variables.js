@@ -8,12 +8,11 @@ const variables = {
   },
   quotes: [
 
-    {quote: "Selamat Berpuasa :)", author: "Adhin" },
-    {quote: "Ingetin yahh kalo aku lupa absen", author: "Adhin" },
-    {quote: "I love Youuu", author: "Adhin" },
-    {quote: "Jangan cepet cepet pulang ke Jakarta :(", author: "Adhin" },
-    {quote: "Jaga mata, jaga hati yah", author: "Adhin" },
-    {quote: "Aku bersyukur banget punya kamu", author: "Adhin" },
+    {quote: "Sayang, maafin aku ya" },
+    {quote: "Aku minta maaf" },
+    {quote: "Aku nyesal, maaf" },
+    {quote: "Sayang, maaf" }, 
+    
 
   ],
   nicknames: ["Bee","Sayang","Ayang","Yang"],
