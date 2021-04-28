@@ -12,9 +12,9 @@ const variables = {
     {quote: "I love you" },
     {quote: "how is it going, dating with me?" },
     {quote: "aku clingy banget ya orangnya, maaf ya :(" },
-    {quote: "I adore you, sweetie" } 
-    {quote: "i still learning how to make you happy, pls gimme some times" }
-    {quote: "I Love you to the moon, and never back" }
+    {quote: "I adore you, sweetie" }, 
+    {quote: "i still learning how to make you happy, pls gimme some times" },
+    {quote: "I Love you to the moon, and never back" },
     
 
   ],
