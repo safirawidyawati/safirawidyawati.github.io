@@ -8,10 +8,13 @@ const variables = {
   },
   quotes: [
 
-    {quote: "Sayang, maafin aku ya" },
-    {quote: "Aku minta maaf" },
-    {quote: "Aku nyesal, maaf" },
-    {quote: "Sayang, maaf" }, 
+    {quote: "hai cantik aku" },
+    {quote: "I love you" },
+    {quote: "how is it going, dating with me?" },
+    {quote: "aku clingy banget ya orangnya, maaf ya :(" },
+    {quote: "I adore you, sweetie" } 
+    {quote: "i still learning how to make you happy, pls gimme some times" }
+    {quote: "I Love you to the moon, and never back" }
     
 
   ],
