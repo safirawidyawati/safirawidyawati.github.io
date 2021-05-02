@@ -8,7 +8,7 @@ const variables = {
   },
   quotes: [
 
-    {quote: "Iraa risih ya sama adhin" },
+    {quote: "Happy First Monthversary! Sayang iraa" },
 
   ],
   nicknames: ["Bee","Sayang","Ayang","Yang"],
