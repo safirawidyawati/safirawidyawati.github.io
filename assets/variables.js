@@ -1,17 +1,17 @@
 const variables = {
   greetings: {
-    morning: "Iraa",
-    day: "Iraa",
-    afternoon: "Iraa",
-    evening: "Iraa",
-    night: "Iraa",
+    morning: " ",
+    day: " ",
+    afternoon: " ",
+    evening: " ",
+    night: " ",
   },
   quotes: [
 
-    {quote: "aku capek" },
+    {quote: "Here lies all the bullshit we build together, Rest In Peace" },
 
   ],
-  nicknames: ["Bee","Sayang","Ayang","Yang"],
+  nicknames: [],
   generated: ["{greetings}"],
 };
 
