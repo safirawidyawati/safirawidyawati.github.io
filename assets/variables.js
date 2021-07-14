@@ -8,7 +8,7 @@ const variables = {
   },
   quotes: [
 
-    {quote: "Here lies all the bullshit we build together, Rest In Peace" },
+    {quote: "I don't f*cking know why am i still thinking that she will comeback to me, how dumb of me. This is the last thing i made for her that still intact. So with all the memories, this will be shut down soon, for good, farewell, the chapter of my life" },
 
   ],
   nicknames: [],
